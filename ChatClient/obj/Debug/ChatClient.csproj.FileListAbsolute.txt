@@ -1,0 +1,7 @@
+E:\Users\kir\edu\ITsstu\TCPchat\ChatClient\bin\Debug\ChatClient.exe.config
+E:\Users\kir\edu\ITsstu\TCPchat\ChatClient\bin\Debug\ChatClient.exe
+E:\Users\kir\edu\ITsstu\TCPchat\ChatClient\bin\Debug\ChatClient.pdb
+E:\Users\kir\edu\ITsstu\TCPchat\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+E:\Users\kir\edu\ITsstu\TCPchat\ChatClient\obj\Debug\ChatClient.exe
+E:\Users\kir\edu\ITsstu\TCPchat\ChatClient\obj\Debug\ChatClient.pdb
+E:\Users\kir\edu\ITsstu\TCPchat\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache

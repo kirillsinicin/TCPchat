@@ -1,0 +1,7 @@
+E:\Users\kir\edu\ITsstu\TCPchat\ChatServer\bin\Debug\ChatServer.exe.config
+E:\Users\kir\edu\ITsstu\TCPchat\ChatServer\bin\Debug\ChatServer.exe
+E:\Users\kir\edu\ITsstu\TCPchat\ChatServer\bin\Debug\ChatServer.pdb
+E:\Users\kir\edu\ITsstu\TCPchat\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+E:\Users\kir\edu\ITsstu\TCPchat\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+E:\Users\kir\edu\ITsstu\TCPchat\ChatServer\obj\Debug\ChatServer.exe
+E:\Users\kir\edu\ITsstu\TCPchat\ChatServer\obj\Debug\ChatServer.pdb
